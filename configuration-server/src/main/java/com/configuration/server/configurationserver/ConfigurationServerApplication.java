@@ -11,4 +11,4 @@ public class ConfigurationServerApplication {
 		SpringApplication.run(ConfigurationServerApplication.class, args);
 	}
 
-}
+}awd
